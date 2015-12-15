@@ -7,8 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BR", "BR\BR.csproj", "{86FC
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{38C94C25-6214-4959-BC9A-134F24C0E9F9}"
 	ProjectSection(SolutionItems) = preProject
-		..\CBillingF\CBillingF\CBLists.cs = ..\CBillingF\CBillingF\CBLists.cs
 		..\CBillingF\CBillingF\DataBaseWork.cs = ..\CBillingF\CBillingF\DataBaseWork.cs
+		..\CBillingF\CBillingF\Lists.cs = ..\CBillingF\CBillingF\Lists.cs
 	EndProjectSection
 EndProject
 Global
